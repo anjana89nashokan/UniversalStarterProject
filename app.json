@@ -1,0 +1,28 @@
+{
+    "expo": {
+      "name": "UniversalStarterProject",
+      "slug": "UniversalStarterProject",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./shared/assets-not-sure/icon.png",
+      "userInterfaceStyle": "light",
+      "newArchEnabled": true,
+      "splash": {
+        "image": "./shared/assets-not-sure/splash-icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./shared/assets-not-sure/adaptive-icon.png",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "web": {
+        "favicon": "./shared/assets-not-sure/favicon.png"
+      }
+    }
+  }
